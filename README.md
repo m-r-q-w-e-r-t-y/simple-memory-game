@@ -57,7 +57,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 - My main question is how are companies able to keep track of so much code when making a product. Even for this project, 129 lines in the backend and even more for the frontend is a lot to keep track of. What are the methods that the industry uses to make coding easier to develop off of.
 
 4. **If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)**  
-   What first comes to mind is that the ending message function could be refactored to display "You win" or "You lost". Also, I would add a functionaly that gives the user a random pattern to follow along with the option to increase the speed of the game. Finally, I would add even more CSS to make the web site have a more modern feel to it.
+- What first comes to mind is that the ending message function could be refactored to display "You win" or "You lost". Also, I would add a functionaly that gives the user a random pattern to follow along with the option to increase the speed of the game. Finally, I would add even more CSS to make the web site have a more modern feel to it.
 
 ## Interview Recording URL Link
 
